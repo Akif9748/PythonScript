@@ -8,7 +8,8 @@ Number = float
 String = str
 isNaN = isnan
 isFinite = isfinite
-
+false = False
+true = True
 
 class JSON:
     stringify = json.loads
